@@ -13,7 +13,9 @@ Trap is an Offensive DDoS Tool i just recently made open source free for you to 
 ==============================
           Commands
 ==============================
- 1= Account Genrator
+
+
+  1= Account Genrator
  2= IP Stresser
  3= DDoS Panel
  4= Hacker's Browser
